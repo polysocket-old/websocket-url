@@ -1,3 +1,5 @@
+[![browser support](https://ci.testling.com/supershabam/websocket-url.png)](https://ci.testling.com/supershabam/websocket-url)
+
 # websocket-url
 
 This is a URL parser specifically designed for a WebSocket client and enforces the rules of the WebSocket specification.
