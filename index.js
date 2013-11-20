@@ -5,10 +5,10 @@ exports.parse = function(urlStr) {
     , secure = false
 
   if (url.protocol !== 'ws:' && url.protocol !== 'wss:') {
-    throw new Error('scheme component must be "ws" or "wss"')
+    throw new SyntaxError('scheme component must be "ws" or "wss"')
   }
   if (url.hash) {
-    throw new Error('expected null fragment component')
+    throw new SyntaxError('expected null fragment component')
   }
   if (url.protocol === 'wss:') {
     secure = true
