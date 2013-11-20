@@ -19,5 +19,8 @@
   "license": "BSD",
   "bugs": {
     "url": "https://github.com/supershabam/websocket-url/issues"
+  },
+  "devDependencies": {
+    "tape": "~2.1.0"
   }
 }
