@@ -1,4 +1,4 @@
-[![browser support](https://ci.testling.com/supershabam/websocket-url.png)](https://ci.testling.com/supershabam/websocket-url)
+[![browser support](https://ci.testling.com/polysocket/websocket-url.png)](https://ci.testling.com/polysocket/websocket-url)
 
 # websocket-url
 
